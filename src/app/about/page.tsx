@@ -10,9 +10,9 @@ import { motion } from "framer-motion";
 import About from "@/components/About";
 
 export const metadata: Metadata = {
-  title: "About | John Doe",
+  title: "About | Atharva Dagaonkar",
   description:
-    "John Doe is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
+    "Atharva Dagaonkar is a full stack developer and speaker with the knack for understanding business requirements and translating them into scalable solutions.",
 };
 
 export default function AboutPage() {

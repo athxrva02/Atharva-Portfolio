@@ -71,47 +71,29 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className=" mt-4">
-          Hey there, I&apos;m John Doe - a passionate developer, avid writer,
+          Hey there, I&apos;m Atharva Dagaonkar - a passionate developer, avid traveller,
           and a connoisseur of awesome design. Welcome to my corner of the
-          digital world!
+          internet, fancy seeing you here!
         </Paragraph>
         <Paragraph className=" mt-4">
-          Since the early days of my journey, I&apos;ve been captivated by the
-          art of crafting exceptional digital experiences. As a developer, I
-          thrive on turning lines of code into functional and elegant solutions.
-          My goal is to not just create software, but to build digital marvels
-          that seamlessly merge form and function.
+          Since the start of my programming journey from when I was 14, I've always been fascinated by the prospect of building impactful solutions for myself and others. I have close to 8 years of experience writing Java applications, from the simple library management system to the core logic of online gaming platforms.
         </Paragraph>
 
         <Paragraph className=" mt-4">
-          But my journey doesn&apos;t stop at coding. With a heart full of words
-          and a mind brimming with ideas, I&apos;ve ventured into the realm of
-          writing. From tech articles that unravel complex concepts to creative
-          tales that ignite the imagination, I weave words to inform, entertain,
-          and inspire.
+          My journey continued with graduating with a degree in Computer Science from the prestigious Vellore Institute of Technology in 2024. During my studies, I did multiple internships, often international. I've worked at National University of Singapore twice and Signal Corporation in Auckland, in the domain of AI and NLP. I've also worked for Samsung R&D Institute in Bangalore as a part of their PRISM program, working on a novel data structure for their Ad Platform.
         </Paragraph>
         <Paragraph className=" mt-4">
           What sets me apart is my unwavering appreciation for design. I believe
           that aesthetics and usability go hand in hand. My eye for awesome
           design ensures that every project I undertake not only works
-          flawlessly under the hood but also looks stunning on the surface.
+          flawlessly under the hood but also looks stunning on the surface. I focus on reliability, scalability, and abstraction. 
+        </Paragraph>
+
+        <Paragraph className=" mt-4">
+          If you would like to talk tech, discuss projects or just want to say hi, feel free to reach out to me at{" "} <a className="bg-gray-300 rounded-lg p-1" href="mailto:dagaonkaratharva@gmail.com">dagaonkaratharva@gmail.com</a>
         </Paragraph>
         <Paragraph className=" mt-4">
-          Through this website, I aim to share my insights, experiences, and
-          creations with you. Whether you&apos;re a fellow developer seeking
-          solutions, a fellow writer in search of inspiration, or simply someone
-          who appreciates the finer aspects of design, there&apos;s something
-          here for you.
-        </Paragraph>
-        <Paragraph className=" mt-4">
-          Join me on this journey of bytes and narratives, logic and creativity,
-          code and prose. Together, we can explore the boundless possibilities
-          of technology and storytelling, all while reveling in the sheer beauty
-          of thoughtful design.
-        </Paragraph>
-        <Paragraph className=" mt-4">
-          Thank you for being here, and I can&apos;t wait to embark on this
-          adventure with you.
+          Thank you for being here! 🚀
         </Paragraph>
       </div>
     </div>

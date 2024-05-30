@@ -2,6 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { Heading } from "./Heading";
 import { twMerge } from "tailwind-merge";
+import { title } from "process";
 
 export const TechStack = () => {
   const stack = [
@@ -47,6 +48,12 @@ export const TechStack = () => {
 
       className: "h-10 w-24",
     },
+    
+    {
+      title: "Git",
+      src: "/images/logos/icons8-git.svg",
+      className: "h-10 w-24",
+    }
   ];
   return (
     <div>
